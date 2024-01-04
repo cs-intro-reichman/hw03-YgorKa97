@@ -3,11 +3,6 @@
 */
 public class LoanCalc {
 	
-	/**
-* Computes the periodical payment necessary to re-pay a given loan.
-*/
-public class LoanCalc {
-	
 	static double epsilon = 0.001;  // The computation tolerance (estimation error)
         static int iterationCounter;    // Monitors the efficiency of the calculation
 
