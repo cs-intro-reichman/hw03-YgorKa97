@@ -95,7 +95,7 @@
         "setup": "javac lowercase.java",
         "run": "java lowercase \"AaBbCcDdEe\"",
         "input": "",
-        "output": "aabbccdde",
+        "output": "aabbccddee",
         "comparison": "exact",
         "timeout": 10,
         "points": 1.5
